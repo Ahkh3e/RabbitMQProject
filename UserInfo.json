@@ -1,0 +1,70 @@
+{
+    "_id" : ObjectId("6433c887580c61f010f9f4e9"),
+    "username" : "patient1",
+    "password" : "password1",
+    "ID" : NumberInt(1),
+    "type" : "patient"
+},
+{
+    "_id" : ObjectId("6433c887580c61f010f9f4ea"),
+    "username" : "patient2",
+    "password" : "password2",
+    "ID" : NumberInt(2),
+    "type" : "patient"
+},
+{
+    "_id" : ObjectId("6433c887580c61f010f9f4eb"),
+    "username" : "patient3",
+    "password" : "password3",
+    "ID" : NumberInt(3),
+    "type" : "patient"
+},
+{
+    "_id" : ObjectId("6433c887580c61f010f9f4ec"),
+    "username" : "patient4",
+    "password" : "password4",
+    "ID" : NumberInt(4),
+    "type" : "patient"
+},
+{
+    "_id" : ObjectId("6433c887580c61f010f9f4ed"),
+    "username" : "patient5",
+    "password" : "password5",
+    "ID" : NumberInt(5),
+    "type" : "patient"
+},
+{
+    "_id" : ObjectId("6433c887580c61f010f9f4ee"),
+    "username" : "staff1",
+    "password" : "password6",
+    "ID" : NumberInt(6),
+    "type" : "staff"
+},
+{
+    "_id" : ObjectId("6433c887580c61f010f9f4ef"),
+    "username" : "staff2",
+    "password" : "password7",
+    "ID" : NumberInt(7),
+    "type" : "staff"
+},
+{
+    "_id" : ObjectId("6433c887580c61f010f9f4f0"),
+    "username" : "staff3",
+    "password" : "password8",
+    "ID" : NumberInt(8),
+    "type" : "staff"
+},
+{
+    "_id" : ObjectId("6433c887580c61f010f9f4f1"),
+    "username" : "staff4",
+    "password" : "password9",
+    "ID" : NumberInt(9),
+    "type" : "staff"
+},
+{
+    "_id" : ObjectId("6433c887580c61f010f9f4f2"),
+    "username" : "staff5",
+    "password" : "password10",
+    "ID" : NumberInt(10),
+    "type" : "staff"
+}

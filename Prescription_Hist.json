@@ -1,0 +1,80 @@
+{
+    "_id" : ObjectId("6433cb130f9a83a03d7f2fa4"),
+    "prescriptionID" : "RX001",
+    "ID" : NumberInt(1),
+    "Name" : "Ibuprofen",
+    "Quantity" : "1 tablet",
+    "Date" : "2022-03-10"
+},
+{
+    "_id" : ObjectId("6433cb130f9a83a03d7f2fa5"),
+    "prescriptionID" : "RX002",
+    "ID" : NumberInt(1),
+    "Name" : "Paracetamol",
+    "Quantity" : "2 tablets",
+    "Date" : "2022-03-11"
+},
+{
+    "_id" : ObjectId("6433cb130f9a83a03d7f2fa6"),
+    "prescriptionID" : "RX003",
+    "ID" : NumberInt(1),
+    "Name" : "Aspirin",
+    "Quantity" : "1 tablet",
+    "Date" : "2022-03-12"
+},
+{
+    "_id" : ObjectId("6433cb130f9a83a03d7f2fa7"),
+    "prescriptionID" : "RX004",
+    "ID" : NumberInt(2),
+    "Name" : "Amoxicillin",
+    "Quantity" : "1 capsule",
+    "Date" : "2022-03-13"
+},
+{
+    "_id" : ObjectId("6433cb130f9a83a03d7f2fa8"),
+    "prescriptionID" : "RX005",
+    "ID" : NumberInt(3),
+    "Name" : "Ciprofloxacin",
+    "Quantity" : "1 tablet",
+    "Date" : "2022-03-14"
+},
+{
+    "_id" : ObjectId("6433cb130f9a83a03d7f2fa9"),
+    "prescriptionID" : "RX006",
+    "ID" : NumberInt(2),
+    "Name" : "Levothyroxine",
+    "Quantity" : "1 tablet",
+    "Date" : "2022-03-15"
+},
+{
+    "_id" : ObjectId("6433cb130f9a83a03d7f2faa"),
+    "prescriptionID" : "RX007",
+    "ID" : NumberInt(3),
+    "Name" : "Metformin",
+    "Quantity" : "1 tablet",
+    "Date" : "2022-03-16"
+},
+{
+    "_id" : ObjectId("6433cb130f9a83a03d7f2fab"),
+    "prescriptionID" : "RX008",
+    "ID" : NumberInt(4),
+    "Name" : "Simvastatin",
+    "Quantity" : "1 tablet",
+    "Date" : "2022-03-17"
+},
+{
+    "_id" : ObjectId("6433cb130f9a83a03d7f2fac"),
+    "prescriptionID" : "RX009",
+    "ID" : NumberInt(4),
+    "Name" : "Lisinopril",
+    "Quantity" : "1 tablet",
+    "Date" : "2022-03-18"
+},
+{
+    "_id" : ObjectId("6433cb130f9a83a03d7f2fad"),
+    "prescriptionID" : "RX010",
+    "ID" : NumberInt(5),
+    "Name" : "Atorvastatin",
+    "Quantity" : "1 tablet",
+    "Date" : "2022-03-19"
+}

@@ -1,0 +1,50 @@
+{
+    "_id" : ObjectId("6433c90a542320c1deaab44f"),
+    "ID" : NumberInt(1),
+    "Firstname" : "John",
+    "Lastname" : "Doe",
+    "age" : NumberInt(30),
+    "gender" : "male",
+    "address" : "123 Main St",
+    "phone" : "1234567890"
+},
+{
+    "_id" : ObjectId("6433c90a542320c1deaab450"),
+    "ID" : NumberInt(2),
+    "Firstname" : "Jane",
+    "Lastname" : "Doe",
+    "age" : NumberInt(25),
+    "gender" : "female",
+    "address" : "456 Elm St",
+    "phone" : "1983737272"
+},
+{
+    "_id" : ObjectId("6433c90a542320c1deaab451"),
+    "ID" : NumberInt(3),
+    "Firstname" : "Bob",
+    "Lastname" : "Smith",
+    "age" : NumberInt(40),
+    "gender" : "male",
+    "address" : "789 Oak St",
+    "phone" : "3252563113"
+},
+{
+    "_id" : ObjectId("6433c90a542320c1deaab452"),
+    "ID" : NumberInt(4),
+    "Firstname" : "Sara",
+    "Lastname" : "Johnson",
+    "age" : NumberInt(50),
+    "gender" : "female",
+    "address" : "321 Maple St",
+    "phone" : "2836459243"
+},
+{
+    "_id" : ObjectId("6433c90a542320c1deaab453"),
+    "ID" : NumberInt(5),
+    "Firstname" : "David",
+    "Lastname" : "Lee",
+    "age" : NumberInt(20),
+    "gender" : "male",
+    "address" : "654 Pine St",
+    "phone" : "3123345355"
+}

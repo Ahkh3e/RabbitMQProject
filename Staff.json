@@ -1,0 +1,35 @@
+{
+    "_id" : ObjectId("6433c9e26cacc26bd9d9e4a1"),
+    "ID" : NumberInt(6),
+    "Firstname" : "Alice",
+    "Lastname" : "Wong",
+    "role" : "administrator"
+},
+{
+    "_id" : ObjectId("6433c9e26cacc26bd9d9e4a2"),
+    "ID" : NumberInt(7),
+    "Firstname" : "Tom",
+    "Lastname" : "Brown",
+    "role" : "administrator"
+},
+{
+    "_id" : ObjectId("6433c9e26cacc26bd9d9e4a3"),
+    "ID" : NumberInt(8),
+    "Firstname" : "Emily",
+    "Lastname" : "Taylor",
+    "role" : "doctor"
+},
+{
+    "_id" : ObjectId("6433c9e26cacc26bd9d9e4a4"),
+    "ID" : NumberInt(9),
+    "Firstname" : "Mike",
+    "Lastname" : "Wilson",
+    "role" : "doctor"
+},
+{
+    "_id" : ObjectId("6433c9e26cacc26bd9d9e4a5"),
+    "ID" : NumberInt(10),
+    "Firstname" : "Rachel",
+    "Lastname" : "Lee",
+    "role" : "doctor"
+}
